@@ -1,5 +1,5 @@
 {
-    "name": "laposta/laposta-api-php",
+    "name": "joritwebsight/laposta-api-php",
     "type": "library",
     "description": "Laposta api, free api to laposta.nl",
     "keywords": ["email", "marketing", "newsletter", "api", "email-marketing"],
